@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/firmware">
+
+    <fragment
+        android:id="@+id/firmware"
+        android:name="digitalvission.application.firmwareupdate.activity.Firmware"
+        android:label="firmware_page"
+        tools:layout="@layout/firmware_page" />
+</navigation>
