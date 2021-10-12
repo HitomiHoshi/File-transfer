@@ -10,8 +10,16 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
-    <string name="get_firmware_from_server">Get File</string>
-    <string name="sending_firmware_to_controller">Send File</string>
-    <string name="api">URL</string>
+    <string name="auth">auth</string>
+
+    <string name="ble_firmware_update">BLE Firmware update</string>
+    <string name="get_ble_firmware_from_server">Get BLE File</string>
+    <string name="sending_ble_firmware_to_controller">Send BLE File</string>
+    <string name="url_ble">URL BLE</string>
+
+    <string name="wifi_firmware_update">Wifi Firmware update</string>
+    <string name="get_wifi_firmware_from_server">Get Wifi File</string>
+    <string name="sending_wifi_firmware_to_controller">Send Wifi File</string>
+    <string name="url_wifi">URL Wifi</string>
 
 </resources>
